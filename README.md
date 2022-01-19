@@ -3,6 +3,6 @@ Name: Rafael Sergio Pérez Pujol
 <br>
 Location: Castilla-La Mancha, Spain
 <br>
-Projetos: MUMADE - UCLM
+Projects: MUMADE - UCLM
 <br>
-Linguagem-Favorita: spanish & english
+Languages: spanish & english
