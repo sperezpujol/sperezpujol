@@ -1,4 +1,4 @@
-<img src="foto.png" align="left" width="200px"/>
+<img src="foto.jpg" align="left" width="150px"/>
 Name: Rafael Sergio Pérez Pujol
 <br>
 Location: Castilla-La Mancha, Spain
